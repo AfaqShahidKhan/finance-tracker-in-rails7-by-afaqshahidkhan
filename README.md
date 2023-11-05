@@ -1,24 +1,23 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the finance tracker app from the Complete Ruby on Rails Developer course, I am Afaq Shahid Khan, and I am learning ruby on rails version 7, and i am making the app of finance tracker in it.
 
 Things you may want to cover:
 
-* Ruby version
+- Ruby version
+  7
+- System dependencies
 
-* System dependencies
+- Configuration
 
-* Configuration
+- Database creation
 
-* Database creation
+- Database initialization
 
-* Database initialization
+- How to run the test suite
 
-* How to run the test suite
+- Services (job queues, cache servers, search engines, etc.)
 
-* Services (job queues, cache servers, search engines, etc.)
+- Deployment instructions
 
-* Deployment instructions
-
-* ...
+- ...
